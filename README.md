@@ -1,3 +1,5 @@
-# docute
+---
+title: Home
+---
 
-just start writing...
+Software Engineering, Gruppe 3

@@ -6,12 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
   <title>./docs</title>
   <link rel="stylesheet" href="https://unpkg.com/docute@3/dist/docute.css">
+  <link rel="stylesheet" href="https://unpkg.com/docute/dist/theme-github.css">
 </head>
 <body>
   <div id="app"></div>
   <script src="https://unpkg.com/docute@3/dist/docute.js"></script>
   <script>
-    docute.init()
+    docute.init({
+      nav: [
+      {title: 'Home', path: '/'},
+      {title: 'VL1', path: '/VL1'},
+      {title: 'VL2', path: '/VL2'}
+      ]
+    })
   </script>
 </body>
 </html>
