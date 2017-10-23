@@ -7,10 +7,20 @@ date: "21/10/2017"
 ## Vorlesung 1: Einleitung
 
 ### Begriffe/Lernziele
+**„Software Engineering“ = „Softwaretechnik“**
+
+Lernziel für heute:
+* Verstehen, warum Software schwer zu entwickeln ist
+* Erklären können, warum Softwaretechnik notwendig ist
+* Unterschiedliche <span style="color:red">Arten von Software</span> kennen
+* Wissen, welche <span style="color:red">typischen Phasen</span> in einem Softwareprojekt existieren
+* Verständnis für <span style="color:red">Rollen</span> in einem Softwareprojekt entwickeln
+* Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
 
 ### Was ist Software?
 
 ### Software Projekte
+
 
 ### Klassischer Software Lebenszyklus
 
@@ -49,3 +59,5 @@ Weitere Rollen ([Quelle](http://dewik.de/content/SE_Zusammenfassung_Kap_4_7.pdf 
 ### Softwarekosten
 
 ### Zusammenfassung
+
+
