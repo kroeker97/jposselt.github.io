@@ -20,7 +20,18 @@ Lernziel für heute:
 ### Was ist Software?
 
 ### Software Projekte
+**Was ist ein Projekt?**
 
+Ein Projekt ist ein <span style="color:red">Vorhaben</span>, das im wesentlichen durch die <span style="color:red">Einmaligkeit der Bedingungen in ihrer Gesamtheit</span> gekennzeichnet ist, wie z.B.
+* Zielvorgabe
+* Zeitliche, finanzielle, personelle oder andere Begrenzungen
+
+| Projektgröße | Kriterien | Beispiele |
+|:------------ |:--------- |:--------- |
+| Light | Bis 6 Personen<br>0-8 Personen-Monate (PM)<br>Technologien: <5 | Rechenprobleme, Alogithmen|
+| Medium | 10-30 Personen<br>9-24 PM<br>Technologien: 5-12 | Buchhaltung, Lagerverwaltung |
+| Heavy | 50-100 Personen<br>25-45 PM<br>Technologien: 12-20 | Compiler, Datenbank |
+| Super Heavy | >100 Personen<br> >45 PM<br>Technologien: >20 | Raumfahrt, Atomkraftwerk, elektronische Börse|
 
 ### Klassischer Software Lebenszyklus
 
