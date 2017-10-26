@@ -194,18 +194,18 @@ Aus jeder Perspektive sind unterschiedliche Kriterien wichtig.
 
 ** Interessenkonflikte **
 
-Nicht alle Kriterien lassen sich zusammen vereinen. 
-* Funktionalität vs. Benutzbarkeit 
+Nicht alle Kriterien lassen sich zusammen vereinen:
+* __Funktionalität vs. Benutzbarkeit:__<br>
 	Kriterien wie Funktionalität lässt sich nicht gut mit Benutzbarkeit zusammen vereinen, da ein Programm mit vielen Funktionen schwerer zu erlernen ist. Ein leicht zu erlernendes Programm hat daher wenige Funktionen. 
-* Funktionalität vs. schnelle Entwicklung 
+* __Funktionalität vs. schnelle Entwicklung:__<br>
 	Ein umfangreiches Programm kann nicht schnell entwickelt werden da für viele Funktionalitäten viel Zeit zum Implementieren in Anspruch genommen wird.
-* Kosten vs. Robustheit 
+* __Kosten vs. Robustheit:__<br>
 	Wenn ein Programm möglichst günstig sein soll, spart man an der Qualitätssicherung und das Programm hat eine geringere Fehlertoleranz.
-* Kosten vs. Wiederverwendbarkeit
+* __Kosten vs. Wiederverwendbarkeit:__<br>
 	Den Code eines Programms möglichst wiederverwendbar zu machen kostet in der Regel mehr Geld.
-* Effizienz vs. Portabilität 
+* __Effizienz vs. Portabilität:__<br>
 	Programme arbeiten meist am effizientesten, wenn sie direkt für ein bestimmtes Betriebssystem geschrieben werden.
-* Abwärtskompatibilität vs. Lesbarkeit
+* __Abwärtskompatibilität vs. Lesbarkeit:__<br>
 	Ältere Versionen verlangen meist Sonderfälle, die die Lesbarkeit einschränken/erschweren.
 	
 ### Probleme in der Software Entwicklung
